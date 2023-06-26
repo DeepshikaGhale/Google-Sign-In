@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{9971F9EC-8BF4-474D-8821-E87630961D03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleSignIn/MainActivity.cs">
+    <Files>
+      <File FileName="GoogleSignIn/MainActivity.cs" Line="31" Column="1" />
+      <File FileName="GoogleSignIn/AndroidManifest.xml" />
+      <File FileName="GoogleSignIn/Resources/values/strings.xml" />
+      <File FileName="GoogleSignIn/Resources/AboutResources.txt" />
+      <File FileName="GoogleSignIn/Resources/values/ic_launcher_background.xml" />
+      <File FileName="GoogleSignIn/Resources/layout/activity_main.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoogleSignIn" expanded="True">
+            <Node name="GoogleSignIn" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoogleSignIn PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
